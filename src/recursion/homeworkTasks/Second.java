@@ -1,5 +1,5 @@
 package recursion.homeworkTasks;
-//Given a three-digit number, multiply all the digits of this number using the recursive method.
+//Given a three-digit number, multiply all the digits of this number using the recursive method
 public class Second
 {
     public static void main(String[] args) {
