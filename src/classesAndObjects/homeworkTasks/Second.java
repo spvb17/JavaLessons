@@ -1,4 +1,4 @@
-package oop.homeworkTasks;
+package classesAndObjects.homeworkTasks;
 
 public class Second
 {

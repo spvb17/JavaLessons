@@ -1,4 +1,4 @@
-package oop.homeworkTasks;
+package classesAndObjects.homeworkTasks;
 
 public class First
 {
@@ -13,6 +13,7 @@ public class First
 
         Dog[] arr = {dog1, dog2, dog3, dog4, dog5};
         dogAge(arr);
+        System.out.println(dog1);
     }
 
     public static void dogAge(Dog[] arr)
@@ -52,5 +53,14 @@ class Dog
     public void voice()
     {
         System.out.println("bark-bark");
+    }
+
+    @Override
+    public String toString() {
+        return "Dog{" +
+                "name='" + name + '\'' +
+                ", breed='" + breed + '\'' +
+                ", age=" + age +
+                '}';
     }
 }

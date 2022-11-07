@@ -1,4 +1,4 @@
-package oop.examples;
+package classesAndObjects.examples;
 
 public class FirstTask
 {
