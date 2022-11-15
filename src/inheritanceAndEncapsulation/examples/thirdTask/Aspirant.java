@@ -29,8 +29,6 @@ public class Aspirant extends Student
 
     @Override
     public String toString() {
-        return "Aspirant{" +
-                "work='" + work + '\'' +
-                '}';
+        return getFirstName() + getAvgMark() + getLastName() + getWork();
     }
 }

@@ -12,5 +12,6 @@ public class Main
         {
             System.out.println(arr[i].getScholarship());
         }
+        System.out.println(student1);
     }
 }

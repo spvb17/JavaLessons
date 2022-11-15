@@ -11,6 +11,6 @@ public class Main
         vet.treatAnimal(cat);
         vet.treatAnimal(dog);
         vet.treatAnimal(horse);
-        Animal[] arr = {dog, cat, horse}; 
+        Animal[] arr = {dog, cat, horse};
     }
 }
