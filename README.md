@@ -1,5 +1,5 @@
 # JavaLessons
-Skylearn java start course lessons project
+Java start course lessons project
 
 >Это мой проект в intellij idea по которому я веду уроки. Тут хранятся объяснения тем, примеры кода, а так же решения домашних задач которые я задаю. После каждого урока я буду обновлять этот репозиторий
 
